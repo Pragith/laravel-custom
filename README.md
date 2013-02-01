@@ -1,4 +1,4 @@
-# Custom Laravel Package
+## Custom Laravel Package
 
 Laravel Version: **3.2.13-5**<br>
 By:  [@PragithP](http://twitter.com/PragithP)<br>
@@ -6,9 +6,9 @@ By:  [@PragithP](http://twitter.com/PragithP)<br>
 
 <br>
 
-## What's different:
+# What's different:
 
-1. generate.php by Jeffery Way in application/tasks
+1. [generate.php](https://github.com/JeffreyWay/Laravel-Generator/blob/master/generate.php) by Jeffery Way in application/tasks
 2. Batch files present in root
 
 
